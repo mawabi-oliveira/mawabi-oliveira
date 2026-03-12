@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ana. Uma estudante de programação, atualmente cursando Desenvolvimento de Sistemas.
+### Olá! Eu sou Mawabi. Uma estudante de programação, atualmente cursando Ciência da Computação.
 
 <p align="center">
     <img src="https://media.tenor.com/5d3Q3HlEuvUAAAAi/chicken-run.gif" width="60px">
