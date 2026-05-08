@@ -26,12 +26,6 @@
 </a>
 <br>
 
-## Dados do GitHub:
-
-![Mawabi GitHub Stats](https://github-readme-stats.vercel.app/api?username=mawabi-oliveira&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawabi-oliveira&layout=compact)
-
 ## Agradecida! Obrigada pela visita. 
 
 <p align="center">
