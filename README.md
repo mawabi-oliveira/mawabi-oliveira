@@ -28,9 +28,9 @@
 
 ## Dados do GitHub:
 
-![Ana GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenemebous&show_icons=true&theme=tokyonight)
+![Mawabi GitHub Stats](https://github-readme-stats.vercel.app/api?username=mawabi-oliveira&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenemebous&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawabi-oliveira&layout=compact)
 
 ## Agradecida! Obrigada pela visita. 
 
