@@ -12,6 +12,7 @@
 <img align="center" alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">      
 <img align="center" alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Js" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="C" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <br>
 </div>
 
@@ -22,9 +23,6 @@
 </a>
 <a href="mailto:poopys.al.br@gmail.com">
   <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>
-<a href="https://www.instagram.com/anamonteiro.tea/">
-  <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <br>
 
