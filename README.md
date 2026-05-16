@@ -14,7 +14,7 @@ I am a Computer Science student at UFAL, focusing on full-stack development.
 
 ─── ⋆⋅☆⋅⋆ ───
 
-## Tools & Skills
+### Tools & Skills
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>&nbsp;&nbsp;
@@ -33,7 +33,7 @@ I am a Computer Science student at UFAL, focusing on full-stack development.
 
 ─── ⋆⋅☆⋅⋆ ───
 
-## Learning
+### Learning
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="35"/>&nbsp;&nbsp;
@@ -44,7 +44,7 @@ I am a Computer Science student at UFAL, focusing on full-stack development.
 
 ─── ⋆⋅☆⋅⋆ ───
 
-## Next Steps
+### Next Steps
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/>&nbsp;&nbsp;
@@ -55,7 +55,7 @@ I am a Computer Science student at UFAL, focusing on full-stack development.
 
 ─── ⋆⋅☆⋅⋆ ───
 
-## Contact
+### Contact
 
 <p align="left">
     <a href="mailto:g.anaoliveirads@gmail.com">
@@ -65,9 +65,15 @@ I am a Computer Science student at UFAL, focusing on full-stack development.
 
 ─── ⋆⋅☆⋅⋆ ───
 
-## Stats
+### Stats
 
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=mawabi-oliveira&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mawabi-oliveira&theme=dracula" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mawabi-oliveira&theme=dracula" #1" />
+</p>
 
 ─── ⋆⋅☆⋅⋆ ───
 
