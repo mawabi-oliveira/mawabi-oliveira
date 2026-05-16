@@ -57,8 +57,8 @@ I am a Computer Science student at UFAL, focusing on full-stack development and 
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jenemebous&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenemebous&layout=compact&theme=dracula&langs_count=6" height="180em" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mawabi-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawabi-oliveira&layout=compact&theme=dracula&langs_count=6" height="180em" alt="Linguagens mais usadas" />
 </p>
 
 ---
