@@ -12,7 +12,7 @@ I am a Computer Science student at UFAL, focusing on full-stack development.
     <img src="https://media.tenor.com/PfkQubt0AZsAAAAi/diddy-kong-donkey-kong.gif" width="65px">
 </p>
 
-─── ⋆⋅☆⋅⋆ ───
+<p align="center">⋆⋅☆⋅⋆</p>
 
 ### Tools & Skills
 
@@ -31,7 +31,7 @@ I am a Computer Science student at UFAL, focusing on full-stack development.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35"/>
 </p>
 
-─── ⋆⋅☆⋅⋆ ───
+<p align="center">⋆⋅☆⋅⋆</p>
 
 ### Learning
 
@@ -42,7 +42,7 @@ I am a Computer Science student at UFAL, focusing on full-stack development.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
 </p>
 
-─── ⋆⋅☆⋅⋆ ───
+<p align="center">⋆⋅☆⋅⋆</p>
 
 ### Next Steps
 
@@ -53,7 +53,7 @@ I am a Computer Science student at UFAL, focusing on full-stack development.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="35" height="35"/>
 </p>
 
-─── ⋆⋅☆⋅⋆ ───
+<p align="center">⋆⋅☆⋅⋆</p>
 
 ### Contact
 
@@ -63,7 +63,7 @@ I am a Computer Science student at UFAL, focusing on full-stack development.
     </a>
 </p>
 
-─── ⋆⋅☆⋅⋆ ───
+<p align="center">⋆⋅☆⋅⋆</p>
 
 ### Stats
 
@@ -71,11 +71,11 @@ I am a Computer Science student at UFAL, focusing on full-stack development.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mawabi-oliveira&theme=dracula" width="100%" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mawabi-oliveira&theme=dracula" #1" />
 </p>
 
-─── ⋆⋅☆⋅⋆ ───
+<p align="center">⋆⋅☆⋅⋆</p>
 
 ### Thanks for visiting! 
 
