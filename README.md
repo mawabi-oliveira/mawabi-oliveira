@@ -4,7 +4,7 @@
 
 ### Hi there! I'm Ana Mawabi 👋
 
-I am a Computer Science student at UFAL, focusing on full-stack development.
+I am a Computer Science student, focusing on full-stack development.
 
 <p align="center">
     <img src="https://media.tenor.com/5d3Q3HlEuvUAAAAi/chicken-run.gif" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;
