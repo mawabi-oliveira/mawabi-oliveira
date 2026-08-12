@@ -12,8 +12,6 @@ I am a Computer Science student, focusing on full-stack development.
     <img src="https://media.tenor.com/PfkQubt0AZsAAAAi/diddy-kong-donkey-kong.gif" width="65px">
 </p>
 
-<p align="center">⋆⋅☆⋅⋆</p>
-
 ### Stats
 
 <p align="center">
@@ -46,10 +44,6 @@ I am a Computer Science student, focusing on full-stack development.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="35" height="35"/>&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="35" height="35"/>&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/> -->
-    
-
-
-<p align="center">⋆⋅☆⋅⋆</p>
 
 <!--
 ### Next Steps
