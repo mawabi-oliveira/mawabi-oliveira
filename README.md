@@ -32,8 +32,6 @@ I am a Computer Science student, focusing on full-stack development.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35"/>&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>&nbsp;&nbsp;
 
-<p align="center">⋆⋅☆⋅⋆</p>
-
 ### Learning
 
 <p align="left">
@@ -60,7 +58,7 @@ I am a Computer Science student, focusing on full-stack development.
 
 ### Contact
 
-<p align="left">
+<p align="center">
     <a href="mailto:g.anaoliveirads@gmail.com">
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="32px"/>
     </a>
