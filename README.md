@@ -56,9 +56,9 @@ I am a Computer Science student, focusing on full-stack development.
    
 -->
 
-### Contact
+<h3 align="right">Contact</h3>
 
-<p align="center">
+<p align="right">
     <a href="mailto:g.anaoliveirads@gmail.com">
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="32px"/>
     </a>
