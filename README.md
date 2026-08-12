@@ -68,10 +68,6 @@ I am a Computer Science student, focusing on full-stack development.
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mawabi-oliveira&theme=dracula" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mawabi-oliveira&theme=dracula" height="140px" />&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mawabi-oliveira&theme=dracula" height="140px" />
 </p>
