@@ -14,6 +14,15 @@ I am a Computer Science student, focusing on full-stack development.
 
 <p align="center">⋆⋅☆⋅⋆</p>
 
+### Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mawabi-oliveira&theme=dracula" height="140px" />&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mawabi-oliveira&theme=dracula" height="140px" />
+</p>
+
+<p align="center">⋆⋅☆⋅⋆</p>
+
 ### Tools & Skills
 
 <p align="left">
@@ -50,9 +59,10 @@ I am a Computer Science student, focusing on full-stack development.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="35" height="35"/>&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="35" height="35"/>
 </p>
+   
+   <p align="center">⋆⋅☆⋅⋆</p>
+   
 -->
-
-<p align="center">⋆⋅☆⋅⋆</p>
 
 ### Contact
 
@@ -60,15 +70,6 @@ I am a Computer Science student, focusing on full-stack development.
     <a href="mailto:g.anaoliveirads@gmail.com">
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="32px"/>
     </a>
-</p>
-
-<p align="center">⋆⋅☆⋅⋆</p>
-
-### Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mawabi-oliveira&theme=dracula" height="140px" />&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mawabi-oliveira&theme=dracula" height="140px" />
 </p>
 
 <p align="center">⋆⋅☆⋅⋆</p>
