@@ -70,11 +70,7 @@ I am a Computer Science student, focusing on full-stack development.
 
 <h3 align="right">Portfólio</h3>
 
-<p align="right">
-    <a href="https://ana-portfolio-peach.vercel.app/">
-        <img src="https://vercel.com/button" alt="Portfolio"/>
-    </a>
-</p>
+<p align="right"> <a href="https://ana-portfolio-peach.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-ana--portfolio--peach.vercel.app-8A2BE2?style=flat-square" alt="Portfolio"/> </a> </p>
 
 <p align="center">⋆⋅☆⋅⋆</p>
 
