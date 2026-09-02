@@ -60,15 +60,13 @@ I am a Computer Science student, focusing on full-stack development.
    
 -->
 
-<h3 align="right">Contact</h3>
+<h3 align="right">Contact & Portfolio</h3>
 
 <p align="right">
     <a href="mailto:g.anaoliveirads@gmail.com">
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="32px"/>
     </a>
 </p>
-
-<h3 align="right">Portfólio</h3>
 
 <p align="right"> <a href="https://ana-portfolio-peach.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-ana--portfolio--peach.vercel.app-8A2BE2?style=flat-square" alt="Portfolio"/> </a> </p>
 
