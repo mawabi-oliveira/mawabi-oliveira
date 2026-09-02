@@ -2,11 +2,9 @@
     <img src="welcome.png" alt="Banner" width="100%">
 </p>
 
-<h3 align="center">Hi there! I'm Ana Mawabi 👋</h3>
+### Hi there! I'm Ana Mawabi 👋
 
-<p align="center">
-    Computer Science student focused on full-stack development.
-</p>
+I am a Computer Science student, focusing on full-stack development.
 
 <p align="center">
     <img src="https://media.tenor.com/5d3Q3HlEuvUAAAAi/chicken-run.gif" width="60px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,43 +12,40 @@
     <img src="https://media.tenor.com/PfkQubt0AZsAAAAi/diddy-kong-donkey-kong.gif" width="65px">
 </p>
 
----
-
 ### Stats
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mawabi-oliveira&theme=dracula" height="140px">
-    &nbsp;&nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mawabi-oliveira&theme=dracula" height="140px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mawabi-oliveira&theme=dracula" height="140px" />&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mawabi-oliveira&theme=dracula" height="140px" />
 </p>
 
 <p align="center">⋆⋅☆⋅⋆</p>
 
----
-
 ### Tools & Skills
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>
 </p>
 
 ### Learning
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35">&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
 </p>
 
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="35"/>&nbsp;&nbsp;
+<!--
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="35" height="35"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
+-->
 
 <!--
 ### Next Steps
@@ -60,31 +55,28 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="35" height="35"/>&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="35" height="35"/>
 </p>
-
+   
 <p align="center">⋆⋅☆⋅⋆</p>
+   
 -->
-
----
 
 <h3 align="right">Contact</h3>
 
 <p align="right">
     <a href="mailto:g.anaoliveirads@gmail.com">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="32px">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="32px"/>
     </a>
 </p>
 
 <h3 align="right">Portfólio</h3>
 
 <p align="right">
-    <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjenemebous%2Fana-portfolio">
-        <img src="https://vercel.com/button" alt="Deploy with Vercel">
+    <a href="https://ana-portfolio-peach.vercel.app/">
+        <img src="https://vercel.com/button" alt="Portfolio"/>
     </a>
 </p>
 
 <p align="center">⋆⋅☆⋅⋆</p>
-
----
 
 ### Thanks for visiting!
 
